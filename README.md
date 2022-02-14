@@ -1,4 +1,4 @@
-# sift_matching
+# SIFT Matching
 SIFT based feature matching for image localization
 
 SIFT: Scale Invariant Feature Transform
