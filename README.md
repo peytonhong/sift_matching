@@ -1,7 +1,7 @@
 # SIFT Matching
 SIFT based feature matching for image localization
 
-SIFT: Scale Invariant Feature Transform
+SIFT: Scale Invariant Feature Transform   
 FLANN: Fast Library for Approximate Nearest Neighbors
 
 ## Procedure
