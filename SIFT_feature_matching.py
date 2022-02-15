@@ -58,4 +58,4 @@ draw_params = dict(matchColor = (0,255,0), # draw matches in green color
                   
 img3 = cv.drawMatches(img1_bgr,kp1,img2,kp2,good,None,**draw_params)
 plt.imshow(img3),plt.show()
-# cv.imwrite('match_result.jpg', cv.cvtColor(img3, cv.COLOR_BGR2RGB))
+cv.imwrite('match_result.jpg', cv.cvtColor(img3, cv.COLOR_BGR2RGB))
